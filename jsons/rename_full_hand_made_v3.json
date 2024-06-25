@@ -1,0 +1,3866 @@
+[
+    {
+        "id": "automobile/dent/image_2864.jpg",
+        "image": "automobile/dent/image_2864.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of automobile. Does this automobile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.33 0.25 0.54 0.55], [0.43 0.54 0.55 0.66]"
+            }
+        ]
+    },
+    {
+        "id": "bag/None/image_1987.jpg",
+        "image": "bag/None/image_1987.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bag/None/image_2.jpg",
+        "image": "bag/None/image_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bag/None/image_2024.jpg",
+        "image": "bag/None/image_2024.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bag/None/image_45.jpg",
+        "image": "bag/None/image_45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bag/scratch/image_2403.jpg",
+        "image": "bag/scratch/image_2403.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.4 0.25 0.62 0.73]"
+            }
+        ]
+    },
+    {
+        "id": "bag/tear/image_3774.jpg",
+        "image": "bag/tear/image_3774.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bag. Does this bag in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.43 0.55 0.55 0.65], [0.52 0.45 0.86 0.7]"
+            }
+        ]
+    },
+    {
+        "id": "battery/None/image_77.jpg",
+        "image": "battery/None/image_77.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of battery. Does this battery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "battery/None/image_78.jpg",
+        "image": "battery/None/image_78.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of battery. Does this battery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "battery/dent/image_182.jpg",
+        "image": "battery/dent/image_182.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of battery. Does this battery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.37 0.29 0.46 0.38]"
+            }
+        ]
+    },
+    {
+        "id": "bottle/None/image_219.jpg",
+        "image": "bottle/None/image_219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bottle/None/image_251.jpg",
+        "image": "bottle/None/image_251.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bottle/None/image_261.jpg",
+        "image": "bottle/None/image_261.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bottle/dent/image_293.png",
+        "image": "bottle/dent/image_293.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.28 0.16 0.6 0.3]"
+            }
+        ]
+    },
+    {
+        "id": "bottle/dent/image_304.jpg",
+        "image": "bottle/dent/image_304.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.21 0.77 0.36]"
+            }
+        ]
+    },
+    {
+        "id": "bottle/dent/image_307.jpg",
+        "image": "bottle/dent/image_307.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bottle. Does this bottle in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.52 0.35 0.66 0.76]"
+            }
+        ]
+    },
+    {
+        "id": "bowl/None/image_2358.jpg",
+        "image": "bowl/None/image_2358.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bowl. Does this bowl in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bowl/None/image_2361.jpg",
+        "image": "bowl/None/image_2361.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bowl. Does this bowl in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bowl/None/image_441.jpg",
+        "image": "bowl/None/image_441.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bowl. Does this bowl in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bowl/chip/image_2636.jpg",
+        "image": "bowl/chip/image_2636.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bowl. Does this bowl in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.06 0.47 0.16]"
+            }
+        ]
+    },
+    {
+        "id": "bowl/chip/image_2637.jpg",
+        "image": "bowl/chip/image_2637.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bowl. Does this bowl in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.51 0.31 0.73 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "bronze/None/image_2517.jpeg",
+        "image": "bronze/None/image_2517.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bronze. Does this bronze in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bronze/None/image_2522.jpg",
+        "image": "bronze/None/image_2522.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bronze. Does this bronze in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "bronze/None/image_895.jpg",
+        "image": "bronze/None/image_895.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of bronze. Does this bronze in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cable/None/image_1773.jpeg",
+        "image": "cable/None/image_1773.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cable. Does this cable in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cable/None/image_1775.jpg",
+        "image": "cable/None/image_1775.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cable. Does this cable in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cable/crack/image_2184.jpg",
+        "image": "cable/crack/image_2184.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cable. Does this cable in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.44 0.25 0.55 0.34]"
+            }
+        ]
+    },
+    {
+        "id": "cable/frayed/image_2815.jpg",
+        "image": "cable/frayed/image_2815.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cable. Does this cable in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.34 0.36 0.54 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "can/None/image_1815.jpg",
+        "image": "can/None/image_1815.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of can. Does this can in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "can/None/image_1816.jpg",
+        "image": "can/None/image_1816.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of can. Does this can in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "can/None/image_2672.jpg",
+        "image": "can/None/image_2672.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of can. Does this can in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "can/dent/image_2824.png",
+        "image": "can/dent/image_2824.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of can. Does this can in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.29 0.53 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "chair/None/image_2996.jpg",
+        "image": "chair/None/image_2996.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "chair/None/image_8021.jpg",
+        "image": "chair/None/image_8021.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "chair/None/image_8025.JPG",
+        "image": "chair/None/image_8025.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "chair/None/image_8027.jpg",
+        "image": "chair/None/image_8027.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "chair/crack/image_5157.jpg",
+        "image": "chair/crack/image_5157.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.43 0.48 0.57 0.83]"
+            }
+        ]
+    },
+    {
+        "id": "chair/stain/image_3028.JPG",
+        "image": "chair/stain/image_3028.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.74 0.45 0.82], [0.51 0.5 0.58 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "chair/tear/image_3036.jpg",
+        "image": "chair/tear/image_3036.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of chair. Does this chair in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.42 0.38 0.53 0.53]"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/None/image_486.jpg",
+        "image": "circuit board/None/image_486.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/None/image_5642.jpg",
+        "image": "circuit board/None/image_5642.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/None/image_5652.jpg",
+        "image": "circuit board/None/image_5652.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/None/image_5656.jpg",
+        "image": "circuit board/None/image_5656.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/bent/image_4331.jpg",
+        "image": "circuit board/bent/image_4331.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.46 0.26 0.5 0.29], [0.4 0.22 0.46 0.26], [0.29 0.34 0.37 0.5], [0.42 0.65 0.46 0.69]"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/burn/image_4240.jpg",
+        "image": "circuit board/burn/image_4240.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.56 0.12 0.77 0.87]"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/burn/image_4241.jpg",
+        "image": "circuit board/burn/image_4241.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.18 0.15 0.4 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "circuit board/burn/image_4242.jpg",
+        "image": "circuit board/burn/image_4242.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of circuit board. Does this circuit board in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.37 0.36 0.72 0.57]"
+            }
+        ]
+    },
+    {
+        "id": "coin/None/image_495.jpg",
+        "image": "coin/None/image_495.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of coin. Does this coin in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "coin/None/image_503.png",
+        "image": "coin/None/image_503.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of coin. Does this coin in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "coin/None/image_507.jpg",
+        "image": "coin/None/image_507.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of coin. Does this coin in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "coin/None/image_7006.jpg",
+        "image": "coin/None/image_7006.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of coin. Does this coin in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "coin/stain/image_4174.jpg",
+        "image": "coin/stain/image_4174.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of coin. Does this coin in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.1 0.44 0.27 0.69]"
+            }
+        ]
+    },
+    {
+        "id": "concrete/None/image_3155.jpg",
+        "image": "concrete/None/image_3155.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of concrete. Does this concrete in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "concrete/None/image_3200.jpg",
+        "image": "concrete/None/image_3200.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of concrete. Does this concrete in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "concrete/None/image_3208.jpg",
+        "image": "concrete/None/image_3208.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of concrete. Does this concrete in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "concrete/chip/image_3113.jpg",
+        "image": "concrete/chip/image_3113.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of concrete. Does this concrete in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.35 0.5 0.53]"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_2823.jpg",
+        "image": "cup/None/image_2823.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_2845.jpg",
+        "image": "cup/None/image_2845.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_3311.jpg",
+        "image": "cup/None/image_3311.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_540.jpg",
+        "image": "cup/None/image_540.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_557.jpg",
+        "image": "cup/None/image_557.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_5720.jpg",
+        "image": "cup/None/image_5720.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_574.jpg",
+        "image": "cup/None/image_574.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_5742.jpg",
+        "image": "cup/None/image_5742.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_7971.jpg",
+        "image": "cup/None/image_7971.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_798.jpg",
+        "image": "cup/None/image_798.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/None/image_7980.jpg",
+        "image": "cup/None/image_7980.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_2912.jpg",
+        "image": "cup/chip/image_2912.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.25 0.25 0.44 0.34]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_2913.jpg",
+        "image": "cup/chip/image_2913.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.18 0.52 0.27]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_2914.jpg",
+        "image": "cup/chip/image_2914.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.39 0.38 0.48 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_2915.jpg",
+        "image": "cup/chip/image_2915.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.15 0.11 0.22 0.2]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4350.jpg",
+        "image": "cup/chip/image_4350.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.54 0.4 0.59 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4351.jpg",
+        "image": "cup/chip/image_4351.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.66 0.14 0.69 0.19], [0.68 0.21 0.72 0.25]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4352.jpg",
+        "image": "cup/chip/image_4352.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.42 0.31 0.48 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4353.jpg",
+        "image": "cup/chip/image_4353.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.43 0.35 0.52 0.43]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4354.jpg",
+        "image": "cup/chip/image_4354.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.21 0.1 0.32 0.2]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4356.jpg",
+        "image": "cup/chip/image_4356.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.43 0.37 0.59 0.46]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_4357.jpg",
+        "image": "cup/chip/image_4357.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.44 0.32 0.57 0.44]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_532.jpg",
+        "image": "cup/chip/image_532.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.27 0.11 0.38 0.22]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_537.jpg",
+        "image": "cup/chip/image_537.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.42 0.44 0.56 0.51]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_539.jpg",
+        "image": "cup/chip/image_539.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.55 0.36 0.66]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_621.jpg",
+        "image": "cup/chip/image_621.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.56 0.12 0.64 0.19]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_622.jpg",
+        "image": "cup/chip/image_622.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.48 0.13 0.56 0.19]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_633.jpg",
+        "image": "cup/chip/image_633.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.31 0.16 0.45 0.27]"
+            }
+        ]
+    },
+    {
+        "id": "cup/chip/image_634.jpg",
+        "image": "cup/chip/image_634.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cup. Does this cup in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.22 0.4 0.26 0.48]"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_1238.jpg",
+        "image": "cutlery/None/image_1238.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_1243.jpg",
+        "image": "cutlery/None/image_1243.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_4023.jpg",
+        "image": "cutlery/None/image_4023.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_4024.jpg",
+        "image": "cutlery/None/image_4024.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_4043.jpg",
+        "image": "cutlery/None/image_4043.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/None/image_5511.jpeg",
+        "image": "cutlery/None/image_5511.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/bent/image_1506.jpg",
+        "image": "cutlery/bent/image_1506.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.25 0.66 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/bent/image_1519.jpg",
+        "image": "cutlery/bent/image_1519.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.33 0.28 0.59 0.46]"
+            }
+        ]
+    },
+    {
+        "id": "cutlery/bent/image_1522.jpg",
+        "image": "cutlery/bent/image_1522.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of cutlery. Does this cutlery in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.35 0.67 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "disk/None/image_1624.png",
+        "image": "disk/None/image_1624.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "disk/None/image_1660.jpg",
+        "image": "disk/None/image_1660.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "disk/None/image_1674.jpg",
+        "image": "disk/None/image_1674.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "disk/None/image_702.jpg",
+        "image": "disk/None/image_702.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "disk/discoloration/image_1974.jpg",
+        "image": "disk/discoloration/image_1974.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.12 0.08 0.59 0.61]"
+            }
+        ]
+    },
+    {
+        "id": "disk/discoloration/image_1977.jpg",
+        "image": "disk/discoloration/image_1977.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.25 0.13 0.38 0.18]"
+            }
+        ]
+    },
+    {
+        "id": "disk/discoloration/image_2000.jpeg",
+        "image": "disk/discoloration/image_2000.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.28 0.54 0.7 0.78]"
+            }
+        ]
+    },
+    {
+        "id": "disk/discoloration/image_2003.jpeg",
+        "image": "disk/discoloration/image_2003.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of disk. Does this disk in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.3 0.32 0.36 0.38], [0.37 0.49 0.45 0.57], [0.55 0.65 0.63 0.73]"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/None/image_6919.jpg",
+        "image": "fasteners/None/image_6919.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/None/image_6921.jpg",
+        "image": "fasteners/None/image_6921.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/None/image_933.jpg",
+        "image": "fasteners/None/image_933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/bent/image_1207.jpg",
+        "image": "fasteners/bent/image_1207.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.29 0.17 0.53 0.42]"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/bent/image_2570.jpg",
+        "image": "fasteners/bent/image_2570.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.43 0.65 0.69]"
+            }
+        ]
+    },
+    {
+        "id": "fasteners/bent/image_2573.jpg",
+        "image": "fasteners/bent/image_2573.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of fasteners. Does this fasteners in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.26 0.34 0.5 0.54]"
+            }
+        ]
+    },
+    {
+        "id": "glasses/crack/image_1037.jpg",
+        "image": "glasses/crack/image_1037.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of glasses. Does this glasses in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.22 0.29 0.45 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "glasses/crack/image_1038.jpg",
+        "image": "glasses/crack/image_1038.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of glasses. Does this glasses in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.14 0.09 0.38 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "glasses/crack/image_1051.jpg",
+        "image": "glasses/crack/image_1051.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of glasses. Does this glasses in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.07 0.32 0.33 0.62]"
+            }
+        ]
+    },
+    {
+        "id": "glasses/crack/image_1057.jpg",
+        "image": "glasses/crack/image_1057.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of glasses. Does this glasses in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.48 0.28 0.68 0.52]"
+            }
+        ]
+    },
+    {
+        "id": "glasses/smudge/image_1081.jpg",
+        "image": "glasses/smudge/image_1081.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of glasses. Does this glasses in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.3 0.75 0.61]"
+            }
+        ]
+    },
+    {
+        "id": "gold/None/image_4337.jpg",
+        "image": "gold/None/image_4337.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of gold. Does this gold in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "gold/None/image_4339.jpg",
+        "image": "gold/None/image_4339.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of gold. Does this gold in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "gold/chip/image_3702.jpg",
+        "image": "gold/chip/image_3702.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of gold. Does this gold in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.57 0.62 0.64 0.68], [0.71 0.76 0.8 0.83]"
+            }
+        ]
+    },
+    {
+        "id": "hat/None/image_4582.jpg",
+        "image": "hat/None/image_4582.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of hat. Does this hat in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "hat/None/image_4603.jpg",
+        "image": "hat/None/image_4603.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of hat. Does this hat in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "hat/stain/image_3788.jpg",
+        "image": "hat/stain/image_3788.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of hat. Does this hat in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.23 0.63 0.46 0.8]"
+            }
+        ]
+    },
+    {
+        "id": "hose/crack/image_3817.jpg",
+        "image": "hose/crack/image_3817.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of hose. Does this hose in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.45 0.46 0.51 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "key/None/image_5481.jpg",
+        "image": "key/None/image_5481.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of key. Does this key in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "key/None/image_5486.jpg",
+        "image": "key/None/image_5486.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of key. Does this key in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "key/bent/image_4191.jpg",
+        "image": "key/bent/image_4191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of key. Does this key in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.05 0.09 0.32 0.57]"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4787.jpg",
+        "image": "knife/None/image_4787.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4800.jpg",
+        "image": "knife/None/image_4800.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4822.jpeg",
+        "image": "knife/None/image_4822.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4830.jpg",
+        "image": "knife/None/image_4830.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4837.jpg",
+        "image": "knife/None/image_4837.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/None/image_4844.jpg",
+        "image": "knife/None/image_4844.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "knife/chip/image_3902.jpg",
+        "image": "knife/chip/image_3902.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.58 0.42 0.62 0.45], [0.55 0.45 0.59 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "knife/chip/image_3903.jpg",
+        "image": "knife/chip/image_3903.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.26 0.43 0.29 0.47]"
+            }
+        ]
+    },
+    {
+        "id": "knife/chip/image_3933.jpg",
+        "image": "knife/chip/image_3933.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.7 0.71 0.75 0.73], [0.38 0.57 0.52 0.66]"
+            }
+        ]
+    },
+    {
+        "id": "knife/discoloration/image_3922.jpg",
+        "image": "knife/discoloration/image_3922.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.23 0.44 0.77 0.6]"
+            }
+        ]
+    },
+    {
+        "id": "knife/discoloration/image_3924.jpg",
+        "image": "knife/discoloration/image_3924.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of knife. Does this knife in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.09 0.44 0.44 0.58]"
+            }
+        ]
+    },
+    {
+        "id": "lens/None/image_842.jpg",
+        "image": "lens/None/image_842.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of lens. Does this lens in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "lens/scratch/image_1078.jpg",
+        "image": "lens/scratch/image_1078.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of lens. Does this lens in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.15 0.41 0.24], [0.44 0.16 0.64 0.49]"
+            }
+        ]
+    },
+    {
+        "id": "lens/scratch/image_1079.jpg",
+        "image": "lens/scratch/image_1079.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of lens. Does this lens in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.28 0.42 0.65 0.46]"
+            }
+        ]
+    },
+    {
+        "id": "marble/None/image_5318.jpg",
+        "image": "marble/None/image_5318.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of marble. Does this marble in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "marble/None/image_5324.jpg",
+        "image": "marble/None/image_5324.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of marble. Does this marble in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "marble/None/image_5366.jpg",
+        "image": "marble/None/image_5366.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of marble. Does this marble in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "marble/chip/image_4103.jpg",
+        "image": "marble/chip/image_4103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of marble. Does this marble in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.25 0.38 0.51 0.46]"
+            }
+        ]
+    },
+    {
+        "id": "metal/None/image_873.jpg",
+        "image": "metal/None/image_873.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "metal/None/image_875.jpg",
+        "image": "metal/None/image_875.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "metal/None/image_878.jpg",
+        "image": "metal/None/image_878.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "metal/None/image_879.jpg",
+        "image": "metal/None/image_879.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_1104.jpg",
+        "image": "metal/dent/image_1104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.33 0.32 0.52 0.56]"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_1109.jpg",
+        "image": "metal/dent/image_1109.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.47 0.34 0.52 0.39], [0.49 0.47 0.52 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_1111.jpg",
+        "image": "metal/dent/image_1111.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.11 0.1 0.55 0.61]"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_2187.jpg",
+        "image": "metal/dent/image_2187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.34 0.51 0.56]"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_2191.jpg",
+        "image": "metal/dent/image_2191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.4 0.13 0.53 0.35]"
+            }
+        ]
+    },
+    {
+        "id": "metal/dent/image_2192.jpg",
+        "image": "metal/dent/image_2192.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of metal. Does this metal in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.14 0.41 0.24], [0.61 0.16 0.66 0.21]"
+            }
+        ]
+    },
+    {
+        "id": "nut/None/image_5778.jpg",
+        "image": "nut/None/image_5778.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "nut/None/image_5779.jpg",
+        "image": "nut/None/image_5779.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "nut/None/image_5781.jpg",
+        "image": "nut/None/image_5781.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "nut/crack/image_4393.jpg",
+        "image": "nut/crack/image_4393.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.41 0.45 0.7]"
+            }
+        ]
+    },
+    {
+        "id": "nut/crack/image_4394.jpg",
+        "image": "nut/crack/image_4394.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.27 0.17 0.61 0.44], [0.39 0.19 0.59 0.49]"
+            }
+        ]
+    },
+    {
+        "id": "nut/rust/image_4403.jpg",
+        "image": "nut/rust/image_4403.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of nut. Does this nut in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.22 0.13 0.38 0.36]"
+            }
+        ]
+    },
+    {
+        "id": "pan/None/image_4057.jpg",
+        "image": "pan/None/image_4057.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pan/None/image_5890.jpg",
+        "image": "pan/None/image_5890.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pan/None/image_7589.jpg",
+        "image": "pan/None/image_7589.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pan/None/image_7596.jpg",
+        "image": "pan/None/image_7596.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pan/dent/image_4439.jpg",
+        "image": "pan/dent/image_4439.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.3 0.4 0.51 0.54]"
+            }
+        ]
+    },
+    {
+        "id": "pan/dent/image_4440.jpg",
+        "image": "pan/dent/image_4440.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pan. Does this pan in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.28 0.37 0.47 0.56]"
+            }
+        ]
+    },
+    {
+        "id": "pants/None/image_3638.jpg",
+        "image": "pants/None/image_3638.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pants. Does this pants in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pants/None/image_5942.jpg",
+        "image": "pants/None/image_5942.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pants. Does this pants in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pants/None/image_6368.jpg",
+        "image": "pants/None/image_6368.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pants. Does this pants in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pants/tear/image_4621.jpg",
+        "image": "pants/tear/image_4621.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pants. Does this pants in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.34 0.52 0.56 0.73]"
+            }
+        ]
+    },
+    {
+        "id": "pen/None/image_4637.jpg",
+        "image": "pen/None/image_4637.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pen/None/image_6055.png",
+        "image": "pen/None/image_6055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pen/None/image_6066.jpg",
+        "image": "pen/None/image_6066.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "pen/bent/image_4509.jpg",
+        "image": "pen/bent/image_4509.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.12 0.59 0.2 0.62]"
+            }
+        ]
+    },
+    {
+        "id": "pen/bent/image_4510.jpg",
+        "image": "pen/bent/image_4510.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.13 0.74 0.18 0.79]"
+            }
+        ]
+    },
+    {
+        "id": "pen/bent/image_4512.jpg",
+        "image": "pen/bent/image_4512.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.57 0.27 0.61 0.32]"
+            }
+        ]
+    },
+    {
+        "id": "pen/bent/image_4513.jpg",
+        "image": "pen/bent/image_4513.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.21 0.5 0.3 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "pen/bent/image_4514.jpg",
+        "image": "pen/bent/image_4514.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of pen. Does this pen in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.6 0.45 0.74 0.51]"
+            }
+        ]
+    },
+    {
+        "id": "plate/None/image_6233.jpg",
+        "image": "plate/None/image_6233.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "plate/None/image_6235.jpg",
+        "image": "plate/None/image_6235.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "plate/None/image_6257.jpg",
+        "image": "plate/None/image_6257.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "plate/chip/image_4608.jpg",
+        "image": "plate/chip/image_4608.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.23 0.02 0.42 0.09]"
+            }
+        ]
+    },
+    {
+        "id": "plate/chip/image_4624.jpg",
+        "image": "plate/chip/image_4624.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.42 0.71 0.48 0.76]"
+            }
+        ]
+    },
+    {
+        "id": "plate/chip/image_4625.jpg",
+        "image": "plate/chip/image_4625.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.1 0.42 0.12]"
+            }
+        ]
+    },
+    {
+        "id": "plate/chip/image_4627.jpg",
+        "image": "plate/chip/image_4627.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.04 0.42 0.05 0.49]"
+            }
+        ]
+    },
+    {
+        "id": "plate/chip/image_4628.jpg",
+        "image": "plate/chip/image_4628.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of plate. Does this plate in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.05 0.36 0.1 0.51]"
+            }
+        ]
+    },
+    {
+        "id": "ring/None/image_4353.jpg",
+        "image": "ring/None/image_4353.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of ring. Does this ring in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "ring/None/image_4377.jpg",
+        "image": "ring/None/image_4377.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of ring. Does this ring in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "ring/warp/image_3723.jpg",
+        "image": "ring/warp/image_3723.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of ring. Does this ring in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.42 0.63 0.64]"
+            }
+        ]
+    },
+    {
+        "id": "road/None/image_1961.jpeg",
+        "image": "road/None/image_1961.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of road. Does this road in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "road/None/image_1962.jpeg",
+        "image": "road/None/image_1962.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of road. Does this road in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "road/hole/image_2301.jpg",
+        "image": "road/hole/image_2301.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of road. Does this road in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.55 0.52 0.63]"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_1089.jpg",
+        "image": "shirt/None/image_1089.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_1094.jpg",
+        "image": "shirt/None/image_1094.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_1097.jpeg",
+        "image": "shirt/None/image_1097.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_1136.jpg",
+        "image": "shirt/None/image_1136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_3497.jpg",
+        "image": "shirt/None/image_3497.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/None/image_8197.jpeg",
+        "image": "shirt/None/image_8197.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shirt/fading/image_1390.jpg",
+        "image": "shirt/fading/image_1390.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.17 0.01 0.74 0.37]"
+            }
+        ]
+    },
+    {
+        "id": "shirt/stain/image_1394.jpg",
+        "image": "shirt/stain/image_1394.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.31 0.17 0.48 0.52], [0.4 0.55 0.59 0.74]"
+            }
+        ]
+    },
+    {
+        "id": "shirt/stain/image_1395.jpg",
+        "image": "shirt/stain/image_1395.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.14 0.26 0.32 0.56], [0.33 0.84 0.38 0.87]"
+            }
+        ]
+    },
+    {
+        "id": "shirt/stain/image_1399.jpg",
+        "image": "shirt/stain/image_1399.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.27 0.49 0.51], [0.47 0.66 0.52 0.73], [0.42 0.5 0.5 0.66]"
+            }
+        ]
+    },
+    {
+        "id": "shirt/stain/image_1400.jpg",
+        "image": "shirt/stain/image_1400.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shirt. Does this shirt in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.3 0.45 0.58 0.83]"
+            }
+        ]
+    },
+    {
+        "id": "shoe sole/None/image_1203.jpg",
+        "image": "shoe sole/None/image_1203.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoe sole. Does this shoe sole in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shoe sole/None/image_1206.jpg",
+        "image": "shoe sole/None/image_1206.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoe sole. Does this shoe sole in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shoe sole/wear/image_1504.jpg",
+        "image": "shoe sole/wear/image_1504.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoe sole. Does this shoe sole in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.26 0.18 0.63 0.41], [0.32 0.7 0.54 0.87]"
+            }
+        ]
+    },
+    {
+        "id": "shoes/None/image_2720.jpg",
+        "image": "shoes/None/image_2720.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoes. Does this shoes in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shoes/None/image_7390.jpg",
+        "image": "shoes/None/image_7390.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoes. Does this shoes in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shoes/None/image_7768.jpg",
+        "image": "shoes/None/image_7768.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoes. Does this shoes in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "shoes/tear/image_4956.JPG",
+        "image": "shoes/tear/image_4956.JPG",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of shoes. Does this shoes in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.32 0.37 0.6 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "smartphone/None/image_5605.jpg",
+        "image": "smartphone/None/image_5605.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of smartphone. Does this smartphone in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "smartphone/crack/image_4854.jpg",
+        "image": "smartphone/crack/image_4854.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of smartphone. Does this smartphone in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.18 0.21 0.66 0.61]"
+            }
+        ]
+    },
+    {
+        "id": "smartphone/scratch/image_100.jpg",
+        "image": "smartphone/scratch/image_100.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of smartphone. Does this smartphone in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.16 0.0 0.72 0.53]"
+            }
+        ]
+    },
+    {
+        "id": "smartphone/scratch/image_4302.jpg",
+        "image": "smartphone/scratch/image_4302.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of smartphone. Does this smartphone in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.35 0.41 0.57]"
+            }
+        ]
+    },
+    {
+        "id": "smartphone/scratch/image_4860.jpg",
+        "image": "smartphone/scratch/image_4860.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of smartphone. Does this smartphone in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.51 0.32 0.66 0.41], [0.43 0.2 0.6 0.28]"
+            }
+        ]
+    },
+    {
+        "id": "table/None/image_4220.jpeg",
+        "image": "table/None/image_4220.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of table. Does this table in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "table/None/image_8098.jpg",
+        "image": "table/None/image_8098.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of table. Does this table in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "table/None/image_8103.jpg",
+        "image": "table/None/image_8103.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of table. Does this table in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "table/chip/image_1565.jpg",
+        "image": "table/chip/image_1565.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of table. Does this table in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.26 0.38 0.45 0.5]"
+            }
+        ]
+    },
+    {
+        "id": "table/crack/image_3654.jpg",
+        "image": "table/crack/image_3654.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of table. Does this table in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.22 0.38 0.87 0.54]"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2773.jpg",
+        "image": "textiles/None/image_2773.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2775.jpg",
+        "image": "textiles/None/image_2775.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2781.jpg",
+        "image": "textiles/None/image_2781.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2782.jpg",
+        "image": "textiles/None/image_2782.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2783.jpg",
+        "image": "textiles/None/image_2783.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2784.jpg",
+        "image": "textiles/None/image_2784.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2786.jpg",
+        "image": "textiles/None/image_2786.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_2787.jpg",
+        "image": "textiles/None/image_2787.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_391.jpg",
+        "image": "textiles/None/image_391.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_394.jpg",
+        "image": "textiles/None/image_394.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_396.jpg",
+        "image": "textiles/None/image_396.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_401.jpg",
+        "image": "textiles/None/image_401.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/None/image_779.jpg",
+        "image": "textiles/None/image_779.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "textiles/mold/image_483.jpg",
+        "image": "textiles/mold/image_483.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.05 0.14 0.87 0.6]"
+            }
+        ]
+    },
+    {
+        "id": "textiles/mold/image_495.jpg",
+        "image": "textiles/mold/image_495.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.26 0.31 0.73 0.62], [0.0 0.37 0.25 0.58]"
+            }
+        ]
+    },
+    {
+        "id": "textiles/stain/image_750.jpg",
+        "image": "textiles/stain/image_750.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.35 0.25 0.49 0.36]"
+            }
+        ]
+    },
+    {
+        "id": "textiles/tear/image_4096.jpg",
+        "image": "textiles/tear/image_4096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.46 0.0 0.8 0.51]"
+            }
+        ]
+    },
+    {
+        "id": "textiles/tear/image_517.jpg",
+        "image": "textiles/tear/image_517.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of textiles. Does this textiles in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.21 0.0 0.87 0.82]"
+            }
+        ]
+    },
+    {
+        "id": "tile/None/image_1350.jpg",
+        "image": "tile/None/image_1350.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "tile/None/image_1373.jpg",
+        "image": "tile/None/image_1373.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "tile/None/image_1377.jpg",
+        "image": "tile/None/image_1377.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "tile/chip/image_2936.jpg",
+        "image": "tile/chip/image_2936.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.46 0.35 0.51 0.45]"
+            }
+        ]
+    },
+    {
+        "id": "tile/chip/image_2952.jpg",
+        "image": "tile/chip/image_2952.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.41 0.32 0.46 0.38]"
+            }
+        ]
+    },
+    {
+        "id": "tile/chip/image_2954.jpg",
+        "image": "tile/chip/image_2954.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.4 0.49 0.53]"
+            }
+        ]
+    },
+    {
+        "id": "tile/crack/image_1614.jpg",
+        "image": "tile/crack/image_1614.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.0 0.26 0.16 0.32], [0.44 0.0 0.59 0.35], [0.61 0.41 0.7 0.87], [0.14 0.42 0.45 0.65]"
+            }
+        ]
+    },
+    {
+        "id": "tile/crack/image_2937.jpg",
+        "image": "tile/crack/image_2937.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.0 0.36 0.68 0.59]"
+            }
+        ]
+    },
+    {
+        "id": "tile/crack/image_2956.jpg",
+        "image": "tile/crack/image_2956.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of tile. Does this tile in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.09 0.45 0.38 0.87], [0.45 0.03 0.69 0.37]"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/None/image_7603.jpg",
+        "image": "toothbrush/None/image_7603.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/None/image_7604.jpg",
+        "image": "toothbrush/None/image_7604.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/None/image_7607.png",
+        "image": "toothbrush/None/image_7607.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/None/image_7610.jpg",
+        "image": "toothbrush/None/image_7610.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/frayed/image_4980.jpg",
+        "image": "toothbrush/frayed/image_4980.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.69 0.21 0.82 0.48], [0.48 0.21 0.61 0.49], [0.55 0.08 0.75 0.21]"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/frayed/image_4984.jpg",
+        "image": "toothbrush/frayed/image_4984.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.48 0.11 0.66 0.65]"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/frayed/image_4985.jpg",
+        "image": "toothbrush/frayed/image_4985.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.45 0.23 0.63 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/stain/image_4979.jpg",
+        "image": "toothbrush/stain/image_4979.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.05 0.42 0.3 0.61]"
+            }
+        ]
+    },
+    {
+        "id": "toothbrush/stain/image_4986.jpg",
+        "image": "toothbrush/stain/image_4986.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of toothbrush. Does this toothbrush in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.23 0.17 0.59 0.74]"
+            }
+        ]
+    },
+    {
+        "id": "vinyl record/None/image_7756.jpg",
+        "image": "vinyl record/None/image_7756.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of vinyl record. Does this vinyl record in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "vinyl record/scratch/image_5041.jpg",
+        "image": "vinyl record/scratch/image_5041.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of vinyl record. Does this vinyl record in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.11 0.56 0.81 0.75]"
+            }
+        ]
+    },
+    {
+        "id": "vinyl siding/crack/image_5056.jpg",
+        "image": "vinyl siding/crack/image_5056.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of vinyl siding. Does this vinyl siding in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.12 0.25 0.76 0.55]"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1572.jpg",
+        "image": "wood/None/image_1572.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1578.jpg",
+        "image": "wood/None/image_1578.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1579.jpg",
+        "image": "wood/None/image_1579.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1581.jpg",
+        "image": "wood/None/image_1581.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1584.jpg",
+        "image": "wood/None/image_1584.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1585.png",
+        "image": "wood/None/image_1585.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1586.jpg",
+        "image": "wood/None/image_1586.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/None/image_1587.jpg",
+        "image": "wood/None/image_1587.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "wood/crack/image_1902.jpg",
+        "image": "wood/crack/image_1902.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.27 0.0 0.36 0.87]"
+            }
+        ]
+    },
+    {
+        "id": "wood/knot/image_1924.jpg",
+        "image": "wood/knot/image_1924.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.24 0.41 0.35 0.53]"
+            }
+        ]
+    },
+    {
+        "id": "wood/knot/image_1930.jpg",
+        "image": "wood/knot/image_1930.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.64 0.21 0.87 0.37]"
+            }
+        ]
+    },
+    {
+        "id": "wood/knot/image_1932.jpg",
+        "image": "wood/knot/image_1932.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.05 0.07 0.17 0.18], [0.44 0.71 0.51 0.79]"
+            }
+        ]
+    },
+    {
+        "id": "wood/scratch/image_3958.jpg",
+        "image": "wood/scratch/image_3958.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of wood. Does this wood in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.38 0.4 0.55 0.57]"
+            }
+        ]
+    },
+    {
+        "id": "zipper/None/image_5518.jpg",
+        "image": "zipper/None/image_5518.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "zipper/None/image_5520.jpg",
+        "image": "zipper/None/image_5520.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "zipper/None/image_5521.jpg",
+        "image": "zipper/None/image_5521.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "zipper/None/image_5528.jpg",
+        "image": "zipper/None/image_5528.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "zipper/None/image_5529.jpg",
+        "image": "zipper/None/image_5529.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "None"
+            }
+        ]
+    },
+    {
+        "id": "zipper/broken/image_4225.jpg",
+        "image": "zipper/broken/image_4225.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.43 0.3 0.49 0.41]"
+            }
+        ]
+    },
+    {
+        "id": "zipper/broken/image_4228.jpg",
+        "image": "zipper/broken/image_4228.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThis is an image of zipper. Does this zipper in the image have any defects? If yes, please provide the bounding box coordinate of the region where the defect is located."
+            },
+            {
+                "from": "gpt",
+                "value": "[0.36 0.42 0.46 0.52]"
+            }
+        ]
+    }
+]
