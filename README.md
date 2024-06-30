@@ -35,7 +35,7 @@ pip install flash-attn --no-build-isolation
 
 5. Download contents
 - [Model weights before fine-tuning](https://huggingface.co/mucai/vip-llava-7b/tree/main)
-- Getting model weights after fine-tuning, contact [us](vpn@cv.info.gifu-u.ac.jp) or implement ```run.sh``` to train model samely as us.
+- Getting model weights after fine-tuning, contact us(vpn@cv.info.gifu-u.ac.jp) or implement ```run.sh``` to train model samely as us.
 
 ## Dataset
 Our training dataset is [here](training_dataset). These images are collected from the Web, and scraped by hand. 
@@ -68,7 +68,7 @@ Also, use ```prepare_*.ipynb``` to prepare prompts for each dataset.
 
 ## Acknowledgement
 
-- [ViP-LLaVA](https://github.com/WisconsinAIVision/ViP-LLaVA): the vision-language model we build upon, which has strong multimodality and visual recognition. 
+- [ViP-LLaVA](https://github.com/WisconsinAIVision/ViP-LLaVA): the vision-language model, which has strong multimodality and visual prompts recognition. 
 
 ## Caution
 **Usage and License Notices**: All of the contents here is intended and licensed for research use only. Also, please follow the license agreement of ViP-LLaVA, LLaMA, Vicuna and GPT-4.
