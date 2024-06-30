@@ -56,7 +56,7 @@ Hyperparameters used fine-tuning are provided below.
 
 | Hyperparameter | Global Batch Size | Learning rate | Epochs | Max length | Weight decay |
 | --- | ---: | ---: | ---: | ---: | ---: |
-|  ViP-LLaVA-13B | 32 | 2e-5 | 10 | 3500 | 0 |
+|    | 32 | 2e-5 | 10 | 3500 | 0 |
 
 ## Evaluation
 We evaluate our model on three dataset, [MVTec-AD](https://www.mvtec.com/company/research/datasets/mvtec-ad), [VisA](https://github.com/amazon-science/spot-diff), [KolektorSDD2](https://www.vicos.si/resources/kolektorsdd2/). 
